@@ -2,52 +2,52 @@
     "data":[
       {
        "id":1,
-        "FirtName":"Khanh".
+        "FirtName":"Khanh",
         "Lastname":"Tran"
     },
     {
       "id":2,
-        "FirtName":"Kha".
+        "FirtName":"Kha",
         "Lastname":"Tran"
     },
       {
        "id":3,
-        "FirtName":"Khang".
+        "FirtName":"Khang",
         "Lastname":"Tran"
     },
         {
        "id":4,
-        "FirtName":"Anh".
+        "FirtName":"Anh",
         "Lastname":"Tran"
     },
         {
        "id":5,
-        "FirtName":"Kha1".
+        "FirtName":"Kha1",
         "Lastname":"Tran"
     },
         {
        "id":6,
-        "FirtName":"Toan".
+        "FirtName":"Toan",
         "Lastname":"Tran"
     },
         {
        "id":7,
-        "FirtName":"Nam".
+        "FirtName":"Nam",
         "Lastname":"Nguyen"
     },
         {
        "id":8,
-        "FirtName":"Anh".
+        "FirtName":"Anh",
         "Lastname":"Bui"
     },
         {
        "id":9,
-        "FirtName":"Nam".
+        "FirtName":"Nam",
         "Lastname":"Ta"
     },
        {
        "id":10,
-        "FirtName":"Toan".
+        "FirtName":"Toan",
         "Lastname":"Ngu"
     }
   ]
